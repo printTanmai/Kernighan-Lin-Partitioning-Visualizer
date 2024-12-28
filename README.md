@@ -1,6 +1,4 @@
-
-
-# **Kernighan Lin Partitionin Visualizer**
+# **Kernighan Lin Partitioning Visualizer**
 
 This project demonstrates the **Kernighan-Lin algorithm** for graph partitioning. The goal is to divide the nodes of a graph into two groups while minimizing the **cut size** (number or weight of edges between the two groups). The project includes a GUI built with **Tkinter** to visualize the partitioned graph interactively. 
 
@@ -25,8 +23,8 @@ pip install numpy matplotlib networkx
 
 1. **Clone the Repository**
    ```bash
-   git clone <repository-link>
-   cd <repository-name>
+   git clone https://github.com/printTanmai/Kernighan-Lin-Partitioning-Visualizer.git
+   cd Kernighan-Lin-Partitioning-Visualizer
    ```
 
 2. **Edit the Graph** *(Optional)*
@@ -75,7 +73,6 @@ Resulting partition:
 - **Group 2**: `[3, 4, 7, 8]` (green)
 
 ![image](https://github.com/user-attachments/assets/80e156c8-6ff3-4526-8f5e-b4d0956ba99f)
-
 
 ---
 
